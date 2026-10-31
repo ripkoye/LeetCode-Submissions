@@ -6,12 +6,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/ripkoye/LeetCode-Submissions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/ripkoye/LeetCode-Submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0238-product-of-array-except-self](https://github.com/ripkoye/LeetCode-Submissions/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/ripkoye/LeetCode-Submissions/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/ripkoye/LeetCode-Submissions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/ripkoye/LeetCode-Submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0347-top-k-frequent-elements](https://github.com/ripkoye/LeetCode-Submissions/tree/master/0347-top-k-frequent-elements) |
 ## Union-Find
@@ -29,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/ripkoye/LeetCode-Submissions/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/ripkoye/LeetCode-Submissions/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -46,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ripkoye/LeetCode-Submissions/tree/master/0347-top-k-frequent-elements) |
+## String
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/ripkoye/LeetCode-Submissions/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
